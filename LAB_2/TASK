@@ -1,0 +1,7 @@
+Make a branching program for calculating the ZN function according to the specified version N from the table. 2.
+The values ​​of the actual X and the whole Y are entered from the keyboard.
+The value of t calculates as the remainder from division Y by a, and the size P is as a whole part of the division Y by A.
+Explanation. The initial data of X and Y should be accepted in such a way as to verify the correctness of the program, after conducting calculations for each of the possible branches.
+To do this, you should calculate the desired function first with the combination of the source data corresponding to the first formula of the task, and evaluate the result by the real formula, for example, using a conventional calculator.
+Then, in the same way, calculations should be performed for the second, third and other formulas of the task. To indicate the branch used, you can organize the output of the serial number of the calculation formula.
+The results of all calculations should be presented in the form of a table of three values: X, Y and Z.
