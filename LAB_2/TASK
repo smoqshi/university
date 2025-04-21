@@ -6,4 +6,3 @@ To do this, you should calculate the desired function first with the combination
 Then, in the same way, calculations should be performed for the second, third and other formulas of the task. To indicate the branch used, you can organize the output of the serial number of the calculation formula.
 The results of all calculations should be presented in the form of a table of three values: X, Y and Z.
 
-![image](https://i.imgur.com/WOexKf6.png)
