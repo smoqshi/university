@@ -1,0 +1,8 @@
+Create a cyclic program for calculating the functions Fm=F(X), where m=10, if the argument X changes from XN to XK in increments of N. The assignment option is taken from the table. according to the number specified by the teacher. The calculated Fm function, together with auxiliary functions, is shown in the table.. The designations in the ”Assignment" column of the table should be deciphered in accordance with the following lists “Designations of the required variables” and “Designations of the generated arrays”.
+
+Designations of the required variables: 
+	Kp , Sn , Rp are, respectively, the number, sum, product, calculated Fm values , where the indices n indicate for which specific Fm values the calculations of the listed variables are performed
+	n = 0 – for all Fm results;
+	1 – for Fm results less than U1 ;
+	4 – for Fm results, no less than U2 .
+	R1 is an array of Fm results smaller than W1;
