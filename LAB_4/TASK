@@ -1,0 +1,26 @@
+Create a cyclic program for calculating the function Ym=F(Xi), where m=1-5, and the argument Xi is set as an array. The assignment option is taken from the table in accordance with the number specified by the teacher. Calculated functions and arrays of arguments are listed after the table.
+Designations of the required variables:
+Kp , Sn , Rp , At , Gt – respectively the number, sum, product, arithmetic mean, geometric mean of calculated Fm values , where the indices n and t indicate for which specific Fm values the calculations of the listed
+variables are performed:
+n = 0 – for all Fm results;
+1 – for Fm results less than U1 ;
+2 – for Fm results smaller than U2 ;
+3 – for Fm results larger than U1 ;
+4 – for Fm results, no less than U2 .
+t = 0 – for all Fm results;
+1 – for Fm results less than V1 ;
+2 – for Fm results smaller than V2 ;
+3 – for Fm results larger than V1 ;
+4 – for Fm results not less than V2 .
+MIN is the minimum result.,
+MAX is the maximum result,
+MIN1 is the minimum in absolute value
+, MAX1 is the maximum in absolute value.
+Designations of the generated arrays:
+R0 is an array of all Fm results;
+R1 is an array of Fm results smaller than W1;
+R2 is an array of Fm results, not less than W1;
+RZ – array of negative Fm results;
+R4 – an array of positive Fm results;
+R5 is an array of Fm result modules that are greater in absolute magnitude than W2.;
+R6 is an array of modules of the results F, which are smaller in absolute value than W2.
